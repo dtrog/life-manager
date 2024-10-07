@@ -20,7 +20,7 @@ These are still references to the original kanboard project.
 
 Credits
 -------
-
-- Main developer: Frédéric Guillot
+- Developer: Damien Trog
+- Original developer: Frédéric Guillot
 - [Contributors](https://github.com/kanboard/kanboard/graphs/contributors)
 - Distributed under [MIT License](https://github.com/kanboard/kanboard/blob/main/LICENSE)
